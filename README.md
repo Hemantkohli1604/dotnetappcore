@@ -1,0 +1,2 @@
+# dotnetappcore
+Dotnet core 
